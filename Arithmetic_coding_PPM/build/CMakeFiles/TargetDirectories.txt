@@ -1,0 +1,4 @@
+/Users/maxim/Downloads/compressor/build/CMakeFiles/rebuild_cache.dir
+/Users/maxim/Downloads/compressor/build/CMakeFiles/edit_cache.dir
+/Users/maxim/Downloads/compressor/build/CMakeFiles/compress.dir
+/Users/maxim/Downloads/compressor/build/CMakeFiles/utils.dir

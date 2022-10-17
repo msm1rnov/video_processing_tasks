@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maxim/Downloads/compressor/src/ppm.c
+stdlib.h
+-
+stdio.h
+-
+ppm.h
+/Users/maxim/Downloads/compressor/src/ppm.h
+
+/Users/maxim/Downloads/compressor/src/ppm.h
+

@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libutils.a CMakeFiles/utils.dir/utils.c.o CMakeFiles/utils.dir/ari.c.o CMakeFiles/utils.dir/ppm.c.o CMakeFiles/utils.dir/bwt.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libutils.a
